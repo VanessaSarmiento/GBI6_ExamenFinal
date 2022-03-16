@@ -9,3 +9,10 @@ Repositorio para el Examen Final de Bioinformatica
 - Nombre del Dispositivo: MAQUINA-PC
 - RAM instalado: 3,00 GB
 - Tipo de sistema: Sistema Operativo de 64 bits
+## Programas Utilizados
+- GitBash
+- Github
+- R markdown
+- R studio
+## Explicación de la data utilizada
+- se utilizaron tablas, comandos necesarios 
