@@ -15,4 +15,6 @@ Repositorio para el Examen Final de Bioinformatica
 - R markdown
 - R studio
 ## Explicación de la data utilizada
-- se utilizaron tablas, comandos necesarios 
+- se utilizaron tablas de Excel, RData, imganes y comandos 
+  necesarios para la resolucion del examen final de Bioin
+  formatica.
